@@ -1,12 +1,12 @@
 {
-  "name": "danfoster-networker",
+  "name": "jgazeley-networker",
   "version": "0.1.0",
-  "author": "danfoster",
+  "author": "jgazeley",
   "summary": "Manages EMC Networker client",
   "license": "Apache 2.0",
-  "source": "https://github.com/danfoster/puppet-networker",
-  "project_page": "https://github.com/danfoster/puppet-networker",
-  "issues_url": "https://github.com/danfoster/puppet-networker/issues",
+  "source": "https://github.com/uobnetops/puppet-networker",
+  "project_page": "https://github.com/uobnetops/puppet-networker",
+  "issues_url": "https://github.com/uobnetops/puppet-networker/issues",
   "tags": ["backup","networker"],
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
